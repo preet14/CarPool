@@ -3,13 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/M1.html</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Home.css</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/index.html</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Submit.html</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Ride.html</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Home.js</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Ride.css</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Modal/PoolStatusDB.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/MLog.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Modal/PoolDB.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Modal/PoolStatusDAO.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Ride.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Controller/PoolAdd.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Home.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Controller/setStatusPool.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Submit.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Controller/getStatusPool.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Modal/PoolDAO.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Req.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/ResultRide.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Controller/Mypools.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/web/Myrides.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CarPool/src/java/Controller/prevStatusPool.java</file>
         </group>
     </open-files>
 </project-private>

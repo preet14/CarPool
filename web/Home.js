@@ -1,7 +1,7 @@
 function loadLogin(){
-		window.location = "index.html"
+		window.location = "Login.jsp"
 	}
 
 	function loadReg(){
-		window.location = "SignUp.html"
+		window.location = "SignUp.jsp"
 	}

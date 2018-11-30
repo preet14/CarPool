@@ -8,7 +8,7 @@ function validatePass(){
 				}
 				else{
 
-					document.getElementById("cpwdt").style.background= "white";
-					document.getElementById("pwdt").style.background = "white";
+					//document.getElementById("cpwdt").style.background= "white";
+					//document.getElementById("pwdt").style.background = "white";
 				}
 			}
